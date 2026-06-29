@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=140&section=header&text=Hey,%20I'm %20Vraj%20Panchal&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Computer%20Engineering%20Student%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20DevOps%20Learner&descAlignY=78&descSize=15&descColor=cbd5e1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=140&section=header&text=Hey%2C%20I%27m%20Vraj%20Panchal&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Computer%20Engineering%20Student%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20DevOps%20Learner&descAlignY=78&descSize=15&descColor=cbd5e1" />
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@
 
 ## 💭 Favorite Quote
 
-<p align="center">
+<p>
   "Code. Learn. Build. Repeat."
 </p>
 
