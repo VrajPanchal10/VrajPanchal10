@@ -36,18 +36,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-| Area | Goal |
-|------|------|
-| 🚀 Career | Land a full stack / SWE internship or role |
-| ☁️ Cloud | Get hands-on with AWS (EC2, S3, deployment) |
-| 🐳 DevOps | Containerize projects with Docker, set up CI/CD |
-| 🏗️ System Design | Understand scalable architecture patterns |
-| ⚡ Backend | Deep dive into performance & advanced Node.js |
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -74,6 +62,18 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman" />
 </p>
+
+---
+
+## 🎯 Current Focus
+
+| Area | Goal |
+|------|------|
+| 🚀 Career | Land a full stack / SWE internship or role |
+| ☁️ Cloud | Get hands-on with AWS (EC2, S3, deployment) |
+| 🐳 DevOps | Containerize projects with Docker, set up CI/CD |
+| 🏗️ System Design | Understand scalable architecture patterns |
+| ⚡ Backend | Deep dive into performance & advanced Node.js |
 
 ---
 
